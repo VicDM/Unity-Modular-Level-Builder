@@ -1,0 +1,18 @@
+{
+    "name": "VicDM.LevelBuilder.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:f71da0e74d454bc4b9cf98d2da65ebba"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
