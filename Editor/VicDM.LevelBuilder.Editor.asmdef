@@ -1,8 +1,8 @@
 {
-    "name": "VicDM.LevelBuilder.Editor",
+    "name": "vicdm.LevelBuilder.Editor",
     "rootNamespace": "",
     "references": [
-        "GUID:f71da0e74d454bc4b9cf98d2da65ebba"
+        "vicdm.LevelBuilder.Runtime"
     ],
     "includePlatforms": [
         "Editor"
