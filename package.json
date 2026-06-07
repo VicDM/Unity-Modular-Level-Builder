@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "displayName": "Modular Level Builder",
   "description": "Una herramienta avanzada para la creación y diseño de niveles modulares en el editor.",
-  "unity": "6.0",
+  "unity": "2023.3",
   "author": {
     "name": "Víctor Díaz",
     "email": "victor_bcn91@hotmail.com"
